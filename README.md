@@ -1,4 +1,4 @@
-# Technical Exercise IO-builders
+# Technical Exercise
 
 Exercise in which I Faked the process of sending Ethereum from “my wallet to some other wallet” through a post in a Rest controller.
 
